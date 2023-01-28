@@ -47,6 +47,8 @@ public class Program {
 
         }
 
+        teste
+
         sc.close();
     }
 }
